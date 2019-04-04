@@ -7,5 +7,6 @@ Data: The THE MNIST DATABASE of handwritten digits
 Download link:[mnist数据集下载](http://yann.lecun.com/exdb/mnist)
 
 # The result
-1.[运行结果图]（https://github.com/twpsuperman/Study/blob/master/MNIST/3.png?raw=true）
+1. 运行结果图
+![运行结果图](https://github.com/twpsuperman/Study/blob/master/MNIST/3.png?raw=true)
 
